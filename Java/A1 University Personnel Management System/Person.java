@@ -8,6 +8,10 @@ public abstract class Person {
 	private String id;
 	
 		
+	//Standard Constructor 
+	public Person(){
+		
+	}
 	//Parametized Constructor
 	public Person(String name, String id) {
 		this.name = name;
