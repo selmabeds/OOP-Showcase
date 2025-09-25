@@ -1,14 +1,11 @@
 # Welcome to my OOP Showcase! 
 
 ## Objective
-This repository is where I store my Java, C, & Python projects from previous school assignments to showcase my understanding in **OOP**.
+This repository is where I store my Java & Python projects from previous assignments to showcase my understanding in **OOP**.
 
 These projects are applied in realistic application scenarios and have clean, modular, and reusable code as a best interest. 
 
-## Classes Included
- - Object-Oriented Programming I
- -  Object-Ortiented Programming II 
- - Principles of Programming Languages 
+
 ## Covered Concepts
 
 **Java**
